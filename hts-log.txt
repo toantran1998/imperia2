@@ -1,0 +1,59 @@
+HTTrack3.49-2 launched on Tue, 04 Feb 2020 23:48:48 at http://imperiaskygardennminhkhai.vn/
+(httrack http://imperiaskygardennminhkhai.vn/ -O /home/cuongdm/Desktop/minhkhai/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:55:13	Error: 	"Method Not Allowed" (405) at link imperiaskygardennminhkhai.vn/xmlrpc.php (from imperiaskygardennminhkhai.vn/)
+23:55:13	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3 (from imperiaskygardennminhkhai.vn/)
+23:55:24	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/uploads/2018/07/anh-tien-ich-isg-05.jpg (from imperiaskygardennminhkhai.vn/)
+23:55:24	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/uploads/2018/07/anh-tien-ich-isg-03.jpg (from imperiaskygardennminhkhai.vn/)
+23:55:24	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/uploads/2018/11/phòng-tắm.jpg (from imperiaskygardennminhkhai.vn/)
+23:55:24	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/uploads/2018/11/cdt-icon.png (from imperiaskygardennminhkhai.vn/)
+23:55:26	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/uploads/2018/11/tien-ich-icon.png (from imperiaskygardennminhkhai.vn/)
+23:55:28	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/uploads/2018/11/mat-do-icon.png (from imperiaskygardennminhkhai.vn/)
+23:55:30	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/uploads/2018/11/n15.png (from imperiaskygardennminhkhai.vn/)
+23:55:46	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-admin/admin-ajax.php (from imperiaskygardennminhkhai.vn/)
+23:55:49	Warning: 	Moved Permanently for imperiaskygardennminhkhai.vn/?p=69
+23:55:49	Warning: 	File has moved from imperiaskygardennminhkhai.vn/?p=69 to http://imperiaskygardennminhkhai.vn/mat-bang/
+23:55:50	Warning: 	Moved Permanently for imperiaskygardennminhkhai.vn/?p=93
+23:55:50	Warning: 	File has moved from imperiaskygardennminhkhai.vn/?p=93 to http://imperiaskygardennminhkhai.vn/can-ho-mau/
+23:55:53	Warning: 	Moved Permanently for imperiaskygardennminhkhai.vn/?p=79
+23:55:53	Warning: 	File has moved from imperiaskygardennminhkhai.vn/?p=79 to http://imperiaskygardennminhkhai.vn/chinh-sach-ban-hang/
+23:55:53	Warning: 	Moved Permanently for imperiaskygardennminhkhai.vn/?p=86
+23:55:53	Warning: 	File has moved from imperiaskygardennminhkhai.vn/?p=86 to http://imperiaskygardennminhkhai.vn/vi-tri/
+23:55:53	Warning: 	Moved Permanently for imperiaskygardennminhkhai.vn/?p=89
+23:55:53	Warning: 	File has moved from imperiaskygardennminhkhai.vn/?p=89 to http://imperiaskygardennminhkhai.vn/tien-ich/
+23:57:53	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/avia_framework.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/)
+23:57:53	Error: 	"Bad Request" (400) at link imperiaskygardennminhkhai.vn/wp-admin/admin-ajax.php (from imperiaskygardennminhkhai.vn/)
+23:59:47	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/class-tgm-plugin-activation.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/)
+23:59:47	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/inc-autoconfig.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/)
+23:59:47	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/inc-avia-importer.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/)
+23:59:47	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/avia_framework.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/)
+23:59:49	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/colorpicker/colorpicker_indic.gif (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/css/avia_colorpicker.css)
+23:59:49	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/?NA (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/?ND)
+23:59:49	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/colorpicker/?MA (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/colorpicker/)
+23:59:49	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/colorpicker/?SA (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/colorpicker/)
+23:59:50	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/colorpicker/custom_background.png (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/colorpicker/)
+23:59:50	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/colorpicker/custom_hex.png (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/colorpicker/)
+23:59:51	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/colorpicker/custom_rgb_r.png (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/images/colorpicker/)
+00:00:10	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/js/?MD (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/js/?MA)
+00:00:10	Warning: 	Retry after error -4 (No data (connection closed)) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/js/?DD (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/js/?DA)
+00:00:12	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/auto-updates/auto-updates.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/auto-updates/)
+00:00:47	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/wordpress-importer/avia-import-class.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/wordpress-importer/)
+00:00:47	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/class-tgm-plugin-activation.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/)
+00:00:47	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/inc-autoconfig.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/)
+00:00:47	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/inc-avia-importer.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/)
+00:00:48	Error: 	"Internal Server Error" (500) after 2 retries at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/avia_framework.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/)
+00:00:49	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/auto-updates/auto-updates.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/auto-updates/)
+00:01:00	Warning: 	Retry after error 500 (Internal Server Error) at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/wordpress-importer/avia-import-class.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/wordpress-importer/)
+00:01:00	Error: 	"Internal Server Error" (500) after 2 retries at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/class-tgm-plugin-activation.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/)
+00:01:00	Error: 	"Internal Server Error" (500) after 2 retries at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/inc-autoconfig.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/)
+00:01:00	Error: 	"Internal Server Error" (500) after 2 retries at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/inc-avia-importer.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/)
+00:01:00	Error: 	"Internal Server Error" (500) after 2 retries at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/auto-updates/auto-updates.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/auto-updates/)
+00:01:02	Error: 	"Internal Server Error" (500) after 2 retries at link imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/wordpress-importer/avia-import-class.php (from imperiaskygardennminhkhai.vn/wp-content/themes/enfold/framework/php/wordpress-importer/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 15 seconds : 500 links scanned, 456 files written (11619804 bytes overall) [9874580 bytes received at 13434 bytes/sec], 2561885 bytes transferred using HTTP compression in 293 files, ratio 26%, 7.8 requests per connection
+(8 errors, 40 warnings, 0 messages)
